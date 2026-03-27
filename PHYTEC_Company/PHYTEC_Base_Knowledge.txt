@@ -1,0 +1,23 @@
+/01_Company
+  - PHYTEC_Company_Overview.md
+  - PHYTEC_Value_Proposition.md
+  - PHYTEC_Markets_and_Industries.md
+
+/02_Products
+  - PHYTEC_SoM_Portfolio.md
+  - phyCORE_vs_phyBOARD.md
+  - Edge_AI_and_NPU_Strategy.md
+
+/03_Solutions
+  - Industrial_Edge_AI.md
+  - EV_Charging_Solutions.md
+  - Medical_and_Industrial_IO.md
+
+/04_Business
+  - Pricing_Philosophy.md
+  - Go_To_Market.md
+  - Partner_Strategy.md
+
+/05_Positioning
+  - PHYTEC_vs_Competitors.md
+  - When_NOT_to_Position_PHYTEC.md
